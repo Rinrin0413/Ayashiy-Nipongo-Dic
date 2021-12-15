@@ -1,4 +1,4 @@
-# 怪レい日本语辞畫
+# 怪レい日本语辞畫 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Rinrin0413/MS.dic_Ayashiy-Nipongo?color=%23B233A7&label=Latest%20Release)
 
     贵樣はこゐ辞畫を使て正レい日本语を使ラことが出來ゑ。
     これば英オ教育てあゑ。
