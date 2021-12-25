@@ -19,4 +19,4 @@ MicrosoftIME ユーザ辞畫ツー儿てごゐ亍キヌトファ亻儿を读込�
 
 <br />
 
-[![MIT](https://img.shields.io/github/license/Rinrin0413/MS.dic_Ayashiy-Nipongo?color=%23A11D32&style=for-the-badge)](./LICENSE)
+[![MIT License](https://img.shields.io/github/license/Rinrin0413/MS.dic_Ayashiy-Nipongo?color=%23A11D32&style=for-the-badge)](./LICENSE)
