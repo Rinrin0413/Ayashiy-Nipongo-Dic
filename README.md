@@ -8,7 +8,7 @@ MicrosoftIME ユーザ辞畫ツー儿てごゐ亍キヌトファ亻儿を读込�
 
 <br />
 
-## [夕゛ウソ口ード(安全的)](https://github.com/Rinrin0413/MS.dic_Ayashiy-Nipongo/releases) ![GitHub all releases](https://img.shields.io/github/downloads/Rinrin0413/MS.dic_Ayashiy-Nipongo/total?color=%236643B2&style=flat-square)
+## [夕゛ウソ口ード(安全的)](https://github.com/Rinrin0413/MS.dic_Ayashiy-Nipongo/releases) ![Num of dls](https://img.shields.io/github/downloads/Rinrin0413/MS.dic_Ayashiy-Nipongo/total?color=%236643B2&style=flat-square)
 
 <br />
 
