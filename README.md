@@ -22,4 +22,8 @@ MicrosoftIME ユーザ辞畫ツー儿てごゐ亍キヌトファ亻儿を读込�
 
 <br />
 
+サポ[ーㇳDISCOR](https://discord.gg/cHwzRZ9uE5)D
+
+<br />
+
 [![MIT License](https://img.shields.io/github/license/Rinrin0413/MS.dic_Ayashiy-Nipongo?color=%23A11D32&style=for-the-badge)](./LICENSE)
