@@ -18,7 +18,7 @@
 
 | | Windows | MacOS | Linux | iOS | Android |
 | --: | :-: | :-: | :-: | :-: | :-: |
-| MS-IME | ○ | - | - | - |  |
+| MS-IME | ○ | - | - | - | - |
 | GGR-IME | ○ | △ | - | - | ○ |
 | Gboard | - | - | - | ☓ | ○ |
 | Simeji | - | - | - | ☓ | ☓ |
