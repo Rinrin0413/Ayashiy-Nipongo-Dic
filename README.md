@@ -17,10 +17,6 @@
 
 辞畫ツー儿てこゐ㇇ァ亻儿を读込むと︑贵樣は怪レい日本语を使用が简単になゑ！
 
-## [夕゛ウソ口ード(安全的)](https://github.com/Rinrin0413/MS.dic_Ayashiy-Nipongo/releases) ![Num of dls](https://img.shields.io/github/downloads/Rinrin0413/MS.dic_Ayashiy-Nipongo/total?color=%236643B2&style=flat-square)
-
-<br />
-
 <details>
 <summary>対応环境</summary>
 <div>
@@ -34,15 +30,17 @@
 | Mozc | △ | △ | ○ | - | △ |
 
 ○ 対応 | △ 未検证 | ☓ 非対応
-  
+
 ※ MS-IME: Microsoft IME  
 ※ GGR-IME: Google 日本語入力  
-※ ここに载っでいなぃ环境ても动作ずゑ場合があゑ.  
+※ ここに载っでいなぃ环境ても动作ずゑ場合があゑ.
 そゐ場合 MS-IME版て試ずと良ぃ  
-※ 作者にば MacOS环境か無ぃ故, 动作レたら教えて欲レい！!!!
+※ 作者には MacOS环境か無ぃ故, 动作レたら教えて欲レい！!!!
 
 </div>
 </details>
+
+## [夕゛ウソ口ード(安全的)](https://github.com/Rinrin0413/MS.dic_Ayashiy-Nipongo/releases) ![Num of dls](https://img.shields.io/github/downloads/Rinrin0413/MS.dic_Ayashiy-Nipongo/total?color=%236643B2&style=flat-square)
 
 <br />
 
