@@ -13,9 +13,9 @@
 </div>
 </details>
 
-<br />
+    辞畫ツー儿てこゐ㇇ァ亻儿を读込むと︑贵樣は怪レい日本语を使用が简単になゑ！
 
-辞畫ツー儿てこゐ㇇ァ亻儿を读込むと︑贵樣は怪レい日本语を使用が简単になゑ！
+<br />
 
 <details>
 <summary>対応环境</summary>
@@ -40,18 +40,19 @@
 </div>
 </details>
 
-## [夕゛ウソ口ード(安全的)](https://github.com/Rinrin0413/MS.dic_Ayashiy-Nipongo/releases) ![Num of dls](https://img.shields.io/github/downloads/Rinrin0413/MS.dic_Ayashiy-Nipongo/total?color=%236643B2&style=flat-square)
+[夕゛ウソ口ード(安全的)](https://github.com/Rinrin0413/MS.dic_Ayashiy-Nipongo/releases) ![Num of dls](https://img.shields.io/github/downloads/Rinrin0413/MS.dic_Ayashiy-Nipongo/total?color=%236643B2&style=flat-square)
 
 <br />
 
-#### 単吾一覧ば
+単吾一覧ば︑
+
 ＿人人人人人＿  
-＞　 [ごちら](./word_list.md) 　＜  
+＞　 [こㄘ゛ら](./word_list.md) 　＜  
 ￣ Y^Y^Y^Y ￣
 
 <br />
 
-サポ[ーㇳDISCOR](https://discord.gg/cHwzRZ9uE5)D
+- サポ[一ㇳDISCOR](https://discord.gg/cHwzRZ9uE5)D
 
 <br />
 
