@@ -15,13 +15,7 @@
 
 <br />
 
-    贵樣はこゐ辞畫を使て正レい日本语を使ラことが出來ゑ。
-    これば英オ教育故使用(しなさい)
-
-ユーザ辞畫ツー儿てごゐファ亻儿を读込むと  
-贵樣は怪レい日本语を使用が简単になる！
-
-<br />
+辞畫ツー儿てこゐ㇇ァ亻儿を读込むと︑贵樣は怪レい日本语を使用が简単になゑ！
 
 ## [夕゛ウソ口ード(安全的)](https://github.com/Rinrin0413/MS.dic_Ayashiy-Nipongo/releases) ![Num of dls](https://img.shields.io/github/downloads/Rinrin0413/MS.dic_Ayashiy-Nipongo/total?color=%236643B2&style=flat-square)
 
