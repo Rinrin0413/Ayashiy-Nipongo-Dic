@@ -1,17 +1,19 @@
 # 怪レい日本语辞畫 ![Latest Release)](https://img.shields.io/github/v/release/Rinrin0413/MS.dic_Ayashiy-Nipongo?color=%23B233A7&label=Latest%20Release)
 
-<details>
-<summary>⚠ Important Caution - 注意事項 ⚠</summary>
-<div>
-
+> [!CAUTION]
+>
+> <details>
+> <summary>⚠ Important Caution - 注意事項 ⚠</summary>
+> <div>
+>
 > ## 日本語:
 > 怪レい日本语（あやしいにほんご）とは、誤訳などによって通常の日本語から大きく逸脱したもの。または意図的にそのように改変した日本語。実用性は皆無であるが、怪レい日本语に含まれるユーモアからしか得られない栄養もある(ありません)。
 >
 > ## For non-native speakers of Japanese:
 > "怪レい日本語" (Ayashī Nihongo) refers to Japanese language that deviates significantly from standard grammar and vocabulary, often due to mistranslations or other errors. In other words, **"怪レい日本語" is NOT correct Japanese language**, so those unfamiliar with Japanese language may greatly misunderstand its meaning if they attempt to read it.
-
-</div>
-</details>
+>
+> </div>
+> </details>
 
     辞畫ツー儿てこゐ㇇ァ亻儿を读込むと︑贵樣は怪レい日本语を使用が简単になゑ！
 
