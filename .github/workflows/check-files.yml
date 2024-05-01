@@ -1,0 +1,17 @@
+name: Check Dictionary Files
+
+on:
+  push:
+    paths:
+      - 'assets/ms-ime/*.txt'
+      - 'assets/gboard/*.zip'
+  workflow_dispatch:
+
+jobs:
+  check:
+    name: Check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check
+        run: .github/workflows/check-files.sh
